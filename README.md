@@ -39,6 +39,8 @@ For normal flight and combat.
 
 ![](images/combat-joystick.jpg)
 
+![](images/combat-throttle.jpg)
+
 ## Star Citizen Referral Code
 
 If you are looking to get into Star Citizen and haven't created an account yet,
