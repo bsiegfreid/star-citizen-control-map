@@ -1,6 +1,8 @@
-# star-citizen-control-map
+# Star Citizen Control Map
 
 Control mapping file for the Thrustmaster T.16000M FCS HOTAS joystick and throttle.
+This mapping is created for long range travel, exploration, and combat using an aircraft
+style model that leverages the IFCS.
 
 ## Hardware
 
@@ -37,9 +39,14 @@ how flight is achieved.
 
 For normal flight and combat.
 
-![](images/combat-joystick.jpg)
+![](images/combat-joystick-01.jpg)
 
-![](images/combat-throttle.jpg)
+The throttle controls the top speed of the vehicle. Toggle Cruise Control for the vehicle
+to accelerate to that specified speed and toggle off to decelerate and stop. For fine
+movement, such as positioning for landing use the WASD keys for brief bursts of directional
+thrust.
+
+![](images/combat-throttle-01.jpg)
 
 ## Star Citizen Referral Code
 
