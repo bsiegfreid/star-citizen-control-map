@@ -33,7 +33,11 @@ This mapping is also balanced between being a reasonable configuration for comba
 also supports hours of long distance travel. Cruise control is an important part of
 how flight is achieved.
 
-![](images/joystick.jpg)
+### Standard and Missile Operator Mode
+
+For normal flight and combat.
+
+![](images/combat-joystick.jpg)
 
 ## Star Citizen Referral Code
 
