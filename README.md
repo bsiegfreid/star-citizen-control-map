@@ -33,6 +33,8 @@ This mapping is also balanced between being a reasonable configuration for comba
 also supports hours of long distance travel. Cruise control is an important part of
 how flight is achieved.
 
+![](images/joystick.jpeg)
+
 ## Star Citizen Referral Code
 
 If you are looking to get into Star Citizen and haven't created an account yet,
