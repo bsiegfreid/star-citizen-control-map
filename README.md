@@ -14,11 +14,6 @@ expensive models.
 
 https://www.thrustmaster.com/en-us/products/t-16000m-fcs-hotas/
 
-For the official documentation and more examples of control bindings see the
-Thrustmaster support site:
-
-https://support.thrustmaster.com/en/product/t-16000m-fcs-hotas-en/
-
 ## Official RSI Support Documentation
 
 RSI has a great support page for working with custom control bindings. Check it out here:
@@ -38,7 +33,7 @@ This mapping is also balanced between being a reasonable configuration for comba
 also supports hours of long distance travel. Cruise control is an important part of
 how flight is achieved.
 
-![](images/joystick.jpeg)
+![](images/joystick.jpg)
 
 ## Star Citizen Referral Code
 
